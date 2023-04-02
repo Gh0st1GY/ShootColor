@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='1color',
+    name='ShootColors',
     version='1.0.0',
     description='A Python module for color effects',
     author='Gh0st1GY',
