@@ -12,7 +12,7 @@ effets de fondu à vos applications.
 Pour installer ShootColor, 
 vous pouvez utiliser la commande suivante :
 
-`pip install ShootColor`
+`pip install ShootColors==1.0.0`
 
 # Utilisation
 
